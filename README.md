@@ -16,4 +16,4 @@ Generate & Check discord tokens
  
 ###### Contact
 - Discord: 𝐕alex.#7777
-- Discord Server: [Click Here](discord.gg/vlonesefi)
+- Discord Server: discord.gg/vlonesefi
