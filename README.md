@@ -15,6 +15,5 @@ Generate & Check discord tokens
 
  
 ###### Contact
-- Discord: Matty#8952
-- Discord Server: [Click Here](https://discord.gg/UgJhHu7)
-- Youtube Channel: [Click Here](https://www.youtube.com/channel/UCJl6yxaNp3r1xkUoQHs4h6w?view_as=subscriber)
+- Discord: 𝐕alex.#7777
+- Discord Server: [Click Here](discord.gg/vlonesefi)
